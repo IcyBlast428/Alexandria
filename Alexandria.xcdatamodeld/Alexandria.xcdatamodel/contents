@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BookEntity" representedClassName=".BookEntity" syncable="YES">
+        <attribute name="bookAuthor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookEdition" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookGenre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookISBN" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookPublisher" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookYearOfPublication" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BookEntity" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
+</model>
